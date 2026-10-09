@@ -1,0 +1,23 @@
+{
+  "status": "success",
+  "claims": [
+    {
+      "fact_id": "revenue-fy2025",
+      "metric": "revenue",
+      "amount": "1.25",
+      "unit": "millions",
+      "currency": "USD",
+      "period": "FY2025",
+      "source": {"document_id": "synthetic-cim-001", "page": 4, "locator": "revenue-fy2025"}
+    },
+    {
+      "fact_id": "ebitda-fy2025",
+      "metric": "ebitda",
+      "amount": "187500",
+      "unit": "ones",
+      "currency": "USD",
+      "period": "FY2025",
+      "source": {"document_id": "synthetic-cim-001", "page": 4, "locator": "ebitda-fy2025"}
+    }
+  ]
+}

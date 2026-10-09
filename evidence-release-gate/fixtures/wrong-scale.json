@@ -1,0 +1,32 @@
+{
+  "status": "success",
+  "claims": [
+    {
+      "fact_id": "revenue-fy2025",
+      "metric": "revenue",
+      "amount": "1250.00",
+      "unit": "millions",
+      "currency": "USD",
+      "period": "FY2025",
+      "source": {"document_id": "synthetic-cim-001", "page": 4, "locator": "revenue-fy2025"}
+    },
+    {
+      "fact_id": "ebitda-fy2025",
+      "metric": "ebitda",
+      "amount": "187500",
+      "unit": "ones",
+      "currency": "USD",
+      "period": "FY2025",
+      "source": {"document_id": "synthetic-cim-001", "page": 4, "locator": "ebitda-fy2025"}
+    },
+    {
+      "fact_id": "net-debt-year-end",
+      "metric": "net_debt",
+      "amount": "315",
+      "unit": "thousands",
+      "currency": "USD",
+      "period": "as_of:2025-12-31",
+      "source": {"document_id": "synthetic-cim-001", "page": 6, "locator": "net-debt-year-end"}
+    }
+  ]
+}

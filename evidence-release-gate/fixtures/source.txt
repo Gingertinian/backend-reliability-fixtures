@@ -1,0 +1,12 @@
+SYNTHETIC DOCUMENT. No company, transaction or client data.
+Document ID: synthetic-cim-001
+
+Page 4. Table A: FY2025 income statement. Currency USD, amounts in thousands.
+Locator revenue-fy2025: Revenue = 1250.00
+Locator ebitda-fy2025: EBITDA = 187.50
+
+Page 6. Table B: Balance snapshot as of 2025-12-31. Currency USD, amounts in ones.
+Locator net-debt-year-end: Net debt = 315000.00
+
+reference.json is a manually reviewed mapping of these three source facts.
+The sample checks structured outputs against that mapping; it does not parse this text.
