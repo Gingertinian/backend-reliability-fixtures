@@ -2,7 +2,7 @@
 
 Synthetic diligence facts, intentionally flawed outputs, deterministic checks,
 and a release gate. Python 3.10+ standard library only. No API keys, model calls,
-external services, publishing or client data.
+external services or client data.
 
 This is an independent sample, not a reported VouchAPI defect or a financial
 audit. The reference is manually reviewed fixture data. The checker does not
